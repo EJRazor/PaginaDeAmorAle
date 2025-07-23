@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PaginaDeAmorAle/static/css/main.bf36a24a.css",
+    "main.js": "/PaginaDeAmorAle/static/js/main.99e8a02d.js",
+    "static/js/787.6d7b5efd.chunk.js": "/PaginaDeAmorAle/static/js/787.6d7b5efd.chunk.js",
+    "static/media/songName.mp3": "/PaginaDeAmorAle/static/media/songName.803a7e8f35e0170b15bf.mp3",
+    "static/media/bg.jpg": "/PaginaDeAmorAle/static/media/bg.8b59967062ce3372ed06.jpg",
+    "static/media/HVW.png": "/PaginaDeAmorAle/static/media/HVW.7855b2b63e27d6ac19ba.png",
+    "static/media/cinStill.png": "/PaginaDeAmorAle/static/media/cinStill.87eceb80b6eaf873ff75.png",
+    "static/media/cinamorollDance.gif": "/PaginaDeAmorAle/static/media/cinamorollDance.b0c8acfbbea4e663227d.gif",
+    "static/media/img5.png": "/PaginaDeAmorAle/static/media/img5.bc9a2beaaecf67a85632.png",
+    "static/media/img2.png": "/PaginaDeAmorAle/static/media/img2.0c80ffe25fdb9e65f4f3.png",
+    "static/media/img1.png": "/PaginaDeAmorAle/static/media/img1.2b35b3a0b6f3403b5f2c.png",
+    "static/media/img3.png": "/PaginaDeAmorAle/static/media/img3.93cff0a1c2872d4ea7c7.png",
+    "static/media/img6.png": "/PaginaDeAmorAle/static/media/img6.a258b2b36c77466b4c75.png",
+    "static/media/img8.png": "/PaginaDeAmorAle/static/media/img8.06f758a445914f1f15b0.png",
+    "static/media/img4.png": "/PaginaDeAmorAle/static/media/img4.1f9cf01d1be7513e64ce.png",
+    "static/media/img7.png": "/PaginaDeAmorAle/static/media/img7.0107291fd164ee52cb40.png",
+    "static/media/logo.svg": "/PaginaDeAmorAle/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PaginaDeAmorAle/index.html",
+    "main.bf36a24a.css.map": "/PaginaDeAmorAle/static/css/main.bf36a24a.css.map",
+    "main.99e8a02d.js.map": "/PaginaDeAmorAle/static/js/main.99e8a02d.js.map",
+    "787.6d7b5efd.chunk.js.map": "/PaginaDeAmorAle/static/js/787.6d7b5efd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf36a24a.css",
+    "static/js/main.99e8a02d.js"
+  ]
+}
